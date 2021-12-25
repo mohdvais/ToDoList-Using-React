@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "task": "Learn HTML",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Get Some Knowledge about CSS",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Practice more JavaScript",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Learn one of the Framwork of javascrip",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "Familiar with basics of framework",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Do some dumy project with react.js",
+    "complete": true
+  }, {
+    "id": 7,
+    "task": "Publised it on GitHub",
+    "complete": true
+  }, {
+    "id": 8,
+    "task": "Mention it on Resume",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "Practice Practice Practice",
+    "complete": true
+  }, {
+    "id": 10,
+    "task": "Get some experiance ",
+    "complete": false
+  }, {
+    "id": 11,
+    "task": "Do internship in this field",
+    "complete": true
+  }, {
+    "id": 12,
+    "task": "No one is going to hire Fresher I know that.",
+    "complete": true
+  }, {
+    "id": 13,
+    "task": "Exercise",
+    "complete": false
+  }, {
+    "id": 14,
+    "task": "Apply for job",
+    "complete": false
+  }, {
+    "id": 15,
+    "task": "Apply until not get selected",
+    "complete": false
+  }, {
+    "id": 16,
+    "task": "Sit in Compus drives",
+    "complete": false
+  }, {
+    "id": 17,
+    "task": "Face some interview",
+    "complete": true
+  }, {
+    "id": 18,
+    "task": "If selected then Happy birthday",
+    "complete": false
+  }, {
+    "id": 19,
+    "task": "Otherwise struggling",
+    "complete": false
+  }, {
+    "id": 20,
+    "task": "keep motivate your-self",
+    "complete": false
+  }]
